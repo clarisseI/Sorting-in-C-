@@ -1,7 +1,7 @@
 // ConsoleApplication8.cpp : Defines the entry point for the console application.
-/*Clarisse Ilibagiza Umulisa With the Help of Dr Donald Simon
+/*Clarisse Ilibagiza Umulisa 
 September 12th 2019
-program name:homework#1
+program name:Sorting.cpp
 Program to print states and its corresponding city in alphabetic order
 Variable declaration:
 stcity[]:array that stores states and cities
